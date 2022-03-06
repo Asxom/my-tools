@@ -32,6 +32,7 @@ I'm starting with this
     * [Ray](https://ray.so) - Share code cards
     * [Patternpad](https://patternpad.com) - Generate pattern backgrounds
     * [Klart](https://klart.io/colors) - Generate palette colors
+    * [Anicons](https://typogram.github.io/Anicons/index.html) - Animated color icon font [variable fonts](https://web.dev/variable-fonts)
 
 * #### <a id="fe-practices"></a>Practices
   * [Design Principles](https://principles.design)
